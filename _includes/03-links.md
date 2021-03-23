@@ -1,1 +1,1 @@
-https://github.com/BenTheurich
+[GitHub](https://github.com/BenTheurich)
